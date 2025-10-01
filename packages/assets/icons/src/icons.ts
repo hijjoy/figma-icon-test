@@ -1,5 +1,5 @@
 import IcArrowRight from "../svg/ic-arrow-right.svg?react";
-import IcMessage from "../svg/ic-message.svg?react";
+import IcSmile from "../svg/ic-smile.svg?react";
 
 // Auto-generated icon registry
 
@@ -9,9 +9,9 @@ export const iconRegistry = {
     component: IcArrowRight,
     tags: ["ic", "arrow", "right"],
   ,
-  IcMessage: {
-    component: IcMessage,
-    tags: ["ic", "message"],
+  IcSmile: {
+    component: IcSmile,
+    tags: ["ic", "smile"],
   }
 }
 };
